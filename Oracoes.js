@@ -1,4 +1,4 @@
-export const oracoesData = [
+
   {
     id: 1,
     title: 'Ave Maria',
@@ -23,5 +23,5 @@ export const oracoesData = [
     classificacao:'Santos'
   }
   // adicione quantas orações quiser aqui
-];
+
 
