@@ -1,4 +1,3 @@
-const oracoesData= [
   {
     id: 1,
     title: 'Ave Maria',
@@ -25,5 +24,4 @@ const oracoesData= [
   // adicione quantas orações quiser aqui
 ];
 
-export default oracoesData;
 
