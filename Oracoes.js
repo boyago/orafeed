@@ -20,4 +20,5 @@
     "image": "https://cdn.arquidiocesesorocaba.org.br/wp-content/uploads/2020/05/21154043/formacao_1600x1200-diante-dos-impossiveis-pecamos-socorro-a-santa-rita-de-cassia-1-1024x768.jpg",
     "classificacao": "Santos"
   }
+
 ]
