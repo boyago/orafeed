@@ -1,4 +1,5 @@
-  {
+[ 
+{
     id: 1,
     title: 'Ave Maria',
     content: 'Ave, Maria, cheia de graça, o Senhor é convosco. Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós pecadores, agora e na hora da nossa morte. Amém.',
