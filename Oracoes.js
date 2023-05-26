@@ -19,6 +19,13 @@
     "content": "Ó Poderosa e gloriosa Santa Rita, eis a vossos pés uma alma desamparada que necessitando de auxílio, a vós recorre com a doce esperança de ser atendida por vós que tem o título de Santa dos Casos Impossíveis e Desesperados.\nÓ cara santa interessai-vos pela minha causa, intercedei junto a Deus para que me conceda a graça que tanto necessito (faça o pedido).\nNão permitais que tenha de me afastar de vossos pés sem ser atendido.\nSe houver em mim algum obstáculo que me impeça de alcançar a graça que imploro, auxiliai-me para que o afaste.\nEnvolvei o meu pedido em vossos preciosos méritos e apresentai-o a vosso celeste esposo, Jesus, em união com a vossa prece. Ó Santa Rita, eu ponho em vós toda a minha confiança. Por vosso intermédio, espero tranquilamente a graça que vos peço.",
     "image": "https://cdn.arquidiocesesorocaba.org.br/wp-content/uploads/2020/05/21154043/formacao_1600x1200-diante-dos-impossiveis-pecamos-socorro-a-santa-rita-de-cassia-1-1024x768.jpg",
     "classificacao": "Santos"
+  },
+  {
+    "id": 4,
+    "title": "Gloria ao Pai",
+    "content": "Glória ao Pai e ao Filho e ao Espírito Santo. Como era, no princípio, agora e sempre. \nAmém.",
+    "image": "https://cdn.arquidiocesesorocaba.org.br/wp-content/uploads/2020/05/21154043/formacao_1600x1200-diante-dos-impossiveis-pecamos-socorro-a-santa-rita-de-cassia-1-1024x768.jpg",
+    "classificacao": "Principais"
   }
 
 ]
